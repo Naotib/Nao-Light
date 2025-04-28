@@ -1,6 +1,6 @@
 {
   "theme_info": {
-    "name": "NaoBevel",
+    "name": "Nao-Light",
     "version": "1.0.0",
     "author": "Naotib",
     "creation_date": "2025-04-22T00:00:00Z", 
@@ -33,12 +33,12 @@
   },
   "path_mappings": {},
   "accent_colors": {
-    "color1": "0xFFFFFF",
-    "color2": "0x880000",
-    "color3": "0x1E2329",
-    "color4": "0xFFFFFF",
-    "color5": "0x000000",
-    "color6": "0xFFFFFF"
+    "color1": "0x000000",
+    "color2": "0xE6E6E6",
+    "color3": "0xE6E6E6",
+    "color4": "0x000000",
+    "color5": "0xFFFFFF",
+    "color6": "0x000000"
   },
   "led_settings": {
     "f1_key": {
